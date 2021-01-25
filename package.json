@@ -1,0 +1,24 @@
+{
+  "name": "angelbot",
+  "version": "0.0.2",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "angel",
+  "license": "ISC",
+  "dependencies": {
+    "bettercord": "^1.0.5",
+    "canvas-constructor": "^4.1.0",
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "node-superfetch": "^0.1.10",
+    "snekfetch": "^4.0.4",
+    "useful-tools": "^0.2.6",
+    "wio.db": "^4.0.13"
+  }
+}
